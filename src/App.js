@@ -59,6 +59,9 @@ function App() {
       </div>
       <Score scoreObj={score}/>
       <CardContainer cardsObj={cards} cardClick={cardClick}/>
+      <div className="footer">
+        <span><a href="https://www.freepik.com/free-vector/countries-flags-landmarks-flat-icons-set_4412354.htm#query=flags&position=33&from_view=search&track=sph">Image by macrovector_official</a> on Freepik</span>
+      </div>
     </div>
   );
 }

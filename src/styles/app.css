@@ -1,3 +1,7 @@
+.App {
+    position: relative;
+    height: 100%;
+}
 .banner {
     background-color: #262626;
     color: #f9f9f9;
@@ -51,4 +55,17 @@
 .card > img {
     height: 160px;
     width: 160px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    background-color: #262626;
+    color: #f9f9f9;
+    text-decoration: none;
+    text-align: center;
+}
+
+.footer > span > a {
+    color: #f9f9f9;
 }
