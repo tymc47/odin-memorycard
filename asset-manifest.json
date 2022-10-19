@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/odin-memorycard/static/css/main.4ed12057.css",
-    "main.js": "/odin-memorycard/static/js/main.07ddbbe7.js",
+    "main.css": "/odin-memorycard/static/css/main.3b7c2caf.css",
+    "main.js": "/odin-memorycard/static/js/main.fb073204.js",
     "static/media/China.jpeg": "/odin-memorycard/static/media/China.370924a38209261e8cb0.jpeg",
     "static/media/Turkey.jpeg": "/odin-memorycard/static/media/Turkey.88e258f079f62b30cef1.jpeg",
     "static/media/UK.jpeg": "/odin-memorycard/static/media/UK.4d1bf4bcaea7d1e34139.jpeg",
@@ -15,11 +15,11 @@
     "static/media/France.jpeg": "/odin-memorycard/static/media/France.c62a2a1553b7c2e7a285.jpeg",
     "static/media/Japan.jpeg": "/odin-memorycard/static/media/Japan.0a8b7b1974af9ac91513.jpeg",
     "index.html": "/odin-memorycard/index.html",
-    "main.4ed12057.css.map": "/odin-memorycard/static/css/main.4ed12057.css.map",
-    "main.07ddbbe7.js.map": "/odin-memorycard/static/js/main.07ddbbe7.js.map"
+    "main.3b7c2caf.css.map": "/odin-memorycard/static/css/main.3b7c2caf.css.map",
+    "main.fb073204.js.map": "/odin-memorycard/static/js/main.fb073204.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ed12057.css",
-    "static/js/main.07ddbbe7.js"
+    "static/css/main.3b7c2caf.css",
+    "static/js/main.fb073204.js"
   ]
 }
