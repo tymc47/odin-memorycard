@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/odin-memorycard/static/css/main.4ed12057.css",
+    "main.js": "/odin-memorycard/static/js/main.07ddbbe7.js",
+    "static/media/China.jpeg": "/odin-memorycard/static/media/China.370924a38209261e8cb0.jpeg",
+    "static/media/Turkey.jpeg": "/odin-memorycard/static/media/Turkey.88e258f079f62b30cef1.jpeg",
+    "static/media/UK.jpeg": "/odin-memorycard/static/media/UK.4d1bf4bcaea7d1e34139.jpeg",
+    "static/media/Spain.jpeg": "/odin-memorycard/static/media/Spain.750d4b73ba3e030e87e7.jpeg",
+    "static/media/USA.jpeg": "/odin-memorycard/static/media/USA.f3f51882a10921dc3c93.jpeg",
+    "static/media/Egypt.jpeg": "/odin-memorycard/static/media/Egypt.95c3e19ca0dfaa5d6b7f.jpeg",
+    "static/media/Italy.jpeg": "/odin-memorycard/static/media/Italy.5b0f2ae5cb3a9ba1e4c2.jpeg",
+    "static/media/India.jpeg": "/odin-memorycard/static/media/India.410cd82ca44e3fe18eb7.jpeg",
+    "static/media/Czech.jpeg": "/odin-memorycard/static/media/Czech.028176da4cf793f898b7.jpeg",
+    "static/media/Thailand.jpeg": "/odin-memorycard/static/media/Thailand.d67fac637089d69f63d6.jpeg",
+    "static/media/France.jpeg": "/odin-memorycard/static/media/France.c62a2a1553b7c2e7a285.jpeg",
+    "static/media/Japan.jpeg": "/odin-memorycard/static/media/Japan.0a8b7b1974af9ac91513.jpeg",
+    "index.html": "/odin-memorycard/index.html",
+    "main.4ed12057.css.map": "/odin-memorycard/static/css/main.4ed12057.css.map",
+    "main.07ddbbe7.js.map": "/odin-memorycard/static/js/main.07ddbbe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed12057.css",
+    "static/js/main.07ddbbe7.js"
+  ]
+}
